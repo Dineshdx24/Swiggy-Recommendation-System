@@ -178,7 +178,7 @@ The overall recommendation workflow is:
                               ▼
                         Streamlit App
 
-Streamlit Application
+## Streamlit Application
 
 The project includes an interactive Streamlit web application.
 
@@ -197,7 +197,7 @@ Get Restaurant Recommendations
 
 the recommendation engine returns the most similar restaurants.
 
-Limitations
+## Limitations
 
 The current recommendation system has some limitations:
 
@@ -209,7 +209,7 @@ The system uses predefined feature weights.
 Restaurants with identical feature values can receive very similar similarity scores.
 Recommendation quality depends on the quality and completeness of the dataset.
 
-Future Enhancements
+## Future Enhancements
 
 The system can be improved by adding:
 
@@ -226,6 +226,9 @@ Advanced ranking techniques.
 Recommendation diversity controls.
 User feedback to improve future recommendations.
 
-Conclusion
+## Conclusion
 
 The Swiggy Restaurant Recommendation System demonstrates how machine learning and similarity-based techniques can be used to build a practical recommendation application.
+
+## Live Streamlit Application:
+https://swiggy-recommendation-system-qkh42re33qf7lgjdmuyhho.streamlit.app/
