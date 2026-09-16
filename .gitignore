@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+.ipynb_checkpoints/
+
+# Large encoded dataset
+encoded_data.csv
+
+# Raw dataset
+swiggy.csv
+
+.DS_Store
+Thumbs.db
